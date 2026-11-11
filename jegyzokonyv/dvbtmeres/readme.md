@@ -23,12 +23,12 @@
 | Paraméterek | Érték |
 | :--- | ---: |
 | Adó frekvencia | 666 MHz |
-| Sávszélesség | |
+| Sávszélesség | 8MHz |
 | Moduláció típusa | 64QAM, 8k, 1/4 |
 | Jelerősség (RSSI) | 57 dBuV |
 | MER | 27.5 dB |
 | Noise Margin | 15.4 |
-| Hiba nélkül vett adás időtartama | |
+| Hiba nélkül vett adás időtartama | 200 sec|
 
 
 
